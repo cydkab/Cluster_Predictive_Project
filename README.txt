@@ -14,4 +14,6 @@ Logistic Regression and Deep Learning)
 
 In the predictive analysis we studied with Random Forest the probability of churn and using the Linear Regression to predict when will the user Logout.
 
+The models were exececuted on RapidMiner, a VPL for machine learning algorithms.
+
 The data for this problem isn't avaiable once it is a competetive company in the market and protected under RGPD(GDPR) compliance.
